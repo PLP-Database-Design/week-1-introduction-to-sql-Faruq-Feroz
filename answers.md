@@ -64,8 +64,11 @@ Data Retrieval: Simplifies querying with SQL
 
 # Question7
 Integer: Stores whole numbers.
+
 Varchar: Stores variable-length text.
+
 Date: Stores date values.
+
 Boolean: Stores true/false values.
 
 # Question8
