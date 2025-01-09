@@ -1,13 +1,22 @@
 # Question 1
 Database Engine: Core component for storing and retrieving data.
+
 Database Schema: Defines the database's logical structure.
+
 Query Processor: Translates and optimizes user queries.
+
 Database Manager: Oversees operations like transactions and access control.
+
 Transaction Management: Ensures reliability with ACID properties.
+
 Data Storage Manager: Manages physical data storage and retrieval.
+
 Concurrency Control: Handles simultaneous access by users.
+
 Backup and Recovery: Protects data and restores it when needed.
+
 User Interface: Tools for users to interact with the database.
+
 Security Management: Controls access and ensures data protection.
 
 # Question2
