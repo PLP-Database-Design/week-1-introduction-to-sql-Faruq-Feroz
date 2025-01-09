@@ -53,9 +53,13 @@ An Entity-Relationship Diagram (ERD) is a visual representation of entities, the
 
 # Question6
 Data Accuracy: Ensures consistency and integrity through constraints.
+
 Flexibility: Easy to update and modify data relationships.
+
 Scalability: Handles large volumes of data effectively.
+
 Security: Supports user authentication and access control.
+
 Data Retrieval: Simplifies querying with SQL
 
 # Question7
